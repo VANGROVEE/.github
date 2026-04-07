@@ -1,13 +1,8 @@
-# ✈️🎫 Tiketku 🎫✈️
-<p>Platform ini merupakan tempat beli dan booking tiket penerbangan secara online, baik one way (sekali
-penerbangan) dan round trip (pulang pergi). Platform ini membuka dan menyediakan berbagai jenis
-penerbangan domestik dan mancanegara. Flow / alur platform dibebaskan berdasarkan kreasi tim final
-project.
-Terdapat dua peran User yaitu berperan sebagai admin dan login sebagai buyer. Buyer dapat
-mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
+# ✈️🎫 VANGROVE 🎫✈️
+<p>......</p>
 
 <h2>Introduction 👋</h2>
-<p>Hi guys! We are from FSW x BEJS TEAM 6, nice to meet you:  </p>
+<p>Hi guys! We are from...., nice to meet you:  </p>
     <table align="center">
       <thead>
         <tr>
@@ -19,26 +14,26 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
       </thead>
       <tbody>
         <tr>
-          <td>Iko Indra Gunawan</td>
-          <td>Full Stack Web</td>
-          <td>UPN Veteran Jatim</td>
+          <td>Muhammad Akhdaan</td>
+          <td>AI Engineer</td>
+          <td>Universitas ...</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
         <tr>
-          <td>Risky Pratama</td>
-          <td>Full Stack Web</td>
-          <td>Universitas Gunadarma</td>
+          <td>Nikson Alberto Situngkir</td>
+          <td>AI Engineer</td>
+          <td>Universitas ...</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
         <tr>
-          <td>Yudriqul Aulia</td>
-          <td>Full Stack Web</td>
+          <td>Putri Prayesti</td>
+          <td>Data Scientist</td>
           <td>Universitas Jambi</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
@@ -46,52 +41,35 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
           </td>
         </tr>
         <tr>
-          <td>David Cristian Putra Sutanto</td>
-          <td>Full Stack Web</td>
-          <td>Universitas Kanjuruhan Malang</td>
+          <td>Michael Valent Satrio Munthe</td>
+          <td>Data Scientist</td>
+          <td>Universitas ....</td>
           <td>
               <a href="https://www.linkedin.com/in/david-cristian-putra-sutanto-313676269/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
         <tr>
-          <td>Devon Marvellous Loen</td>
-          <td>Back End Javascript</td>
-          <td>Universitas Mikroskil</td>
+          <td>Yudriqul Aulia </td>
+          <td>FullStack</td>
+          <td>Universitas ...</td>
           <td>
               <a href="https://www.linkedin.com/in/devon-loen-a67513326/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
         <tr>
-          <td>Fajri Arvandi</td>
-          <td>Back End Javascript</td>
-          <td>Universitas Nurdin Hamzah</td>
+          <td>Rizal Surya Permana</td>
+          <td>FullStack</td>
+          <td>Universitas ...</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
-        <tr>
-          <td>Izzaturrachmi</td>
-          <td>Back End Javascript</td>
-          <td>Politeknik Negeri Jakarta</td>
-          <td>
-              <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-          </td>
-        </tr>
-        <tr>
-          <td>Naufal Ady Saputro</td>
-          <td>Back End Javascript</td>
-          <td>Universitas Gunadarma</td>
-          <td>
-              <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
-              <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-          </td>
-        </tr>
+    
       </tbody>
     </table>
 
 <h2>Themes Project 🌐</h2>
-<p>E-Flight Ticket Platform (Benchmark from Turkish Airlines)</p>
+<p>VANGROVE</p>
