@@ -24,7 +24,7 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
     <tr>
       <td><b>Muhammad Akhdaan</b></td>
       <td>AI Engineer</td>
-      <td>Universitas ...</td>
+      <td>Universitas AMIKOM Yogyakarta</td>
       <td>
         <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
         <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
@@ -33,7 +33,7 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
     <tr>
       <td><b>Nikson Alberto Situngkir</b></td>
       <td>AI Engineer</td>
-      <td>Universitas ...</td>
+      <td>Universitas AMIKOM Yogyakarta</td>
       <td>
         <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
         <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
@@ -51,7 +51,7 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
     <tr>
       <td><b>Michael Valent Satrio Munthe</b></td>
       <td>Data Scientist</td>
-      <td>Universitas ....</td>
+      <td>Universitas Sumatera Utara</td>
       <td>
         <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
         <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
@@ -59,7 +59,7 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
     </tr>
     <tr>
       <td><b>Yudriqul Aulia</b></td>
-      <td>FullStack</td>
+      <td>Full-Stack Web Developer</td>
       <td>Universitas Jambi</td>
       <td>
         <a href="https://www.linkedin.com/in/yudriqul-aulia/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
@@ -68,8 +68,8 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
     </tr>
     <tr>
       <td><b>Rizal Surya Permana</b></td>
-      <td>FullStack</td>
-      <td>Universitas ...</td>
+      <td>Full-Stack Web Developer</td>
+      <td>Universitas Widyatama</td>
       <td>
         <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
         <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
