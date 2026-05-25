@@ -26,8 +26,8 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
       <td>AI Engineer</td>
       <td>Universitas AMIKOM Yogyakarta</td>
       <td>
-        <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-        <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
+        <a href="https://www.linkedin.com/in/makhdaan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+        <a href="https://github.com/AkhdaanLogics"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
       </td>
     </tr>
     <tr>
@@ -97,10 +97,9 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
 - **Runtime**: Node.js / Fastify
 - **Database & ORM**: PostgreSQL & Drizzle ORM
 
-### **AI & Data Science**
+### **AI**
 - **Language**: Python
-- **Tools**: TensorFlow, Scikit-learn, Pandas
-
+- **Tools**: TensorFlow, EfficientNetB0, FastAPI, Docker, TensorBoard, Gemini API, NumPy, Pillow, Railway
 ---
 
 ## 🚀 Instalasi
