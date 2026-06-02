@@ -106,9 +106,3 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
 - **Tools**: Pandas, NumPy, Streamlit, Plotly
 
 ---
-
-## 🚀 Instalasi
-
-1. **Clone Repository**
-   ```bash
-   git clone [https://github.com/username/vangrove.git](https://github.com/username/vangrove.git)
