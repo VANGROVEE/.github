@@ -63,7 +63,7 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
       <td>Universitas Jambi</td>
       <td>
         <a href="https://www.linkedin.com/in/yudriqul-aulia/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-        <a href="https://github.com/yudriqulaulia"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
+        <a href="https://github.com/Hychtclyff"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
       </td>
     </tr>
     <tr>
