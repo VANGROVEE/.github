@@ -1,4 +1,4 @@
-# ✈️🎫 VANGROVE
+# 🌿🔍 VANGROVE
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Development-green" alt="Status">
@@ -35,8 +35,8 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
       <td>AI Engineer</td>
       <td>Universitas AMIKOM Yogyakarta</td>
       <td>
-        <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-        <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
+        <a href="https://www.linkedin.com/in/niksonalbertositungkir/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+        <a href="https://github.com/DEXAAAAA"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
       </td>
     </tr>
     <tr>
@@ -44,8 +44,8 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
       <td>Data Scientist</td>
       <td>Universitas Jambi</td>
       <td>
-        <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-        <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
+        <a href="https://www.linkedin.com/in/putri-prayesti/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+        <a href="https://github.com/aeiprsty"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
       </td>
     </tr>
     <tr>
@@ -53,8 +53,8 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
       <td>Data Scientist</td>
       <td>Universitas Sumatera Utara</td>
       <td>
-        <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-        <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
+        <a href="https://www.linkedin.com/in/michael-valent-satrio-munthe-49123b287/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+        <a href="https://github.com/michaelmunthe123"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
       </td>
     </tr>
     <tr>
@@ -71,8 +71,8 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
       <td>Full-Stack Web Developer</td>
       <td>Universitas Widyatama</td>
       <td>
-        <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-        <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
+        <a href="https://www.linkedin.com/in/rizal-surya-12b67a288/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+        <a href="https://github.com/rizalsurya14"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
       </td>
     </tr>
   </tbody>
@@ -100,6 +100,11 @@ Hi guys! Kami adalah tim pengembang di balik **VANGROVE**. Proyek ini merupakan 
 ### **AI**
 - **Language**: Python
 - **Tools**: TensorFlow, EfficientNetB0, FastAPI, Docker, TensorBoard, Gemini API, NumPy, Pillow, Railway
+
+### **Data Science**
+- **Language**: Python
+- **Tools**: Pandas, NumPy, Streamlit, Plotly
+
 ---
 
 ## 🚀 Instalasi
